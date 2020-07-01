@@ -23,5 +23,4 @@ dependencies:
   uri: https://buildpacks.cloudfoundry.org/dependencies/nginx/nginx-1.11.10-linux-x64-4e34e08b.tgz
   md5: 4e34e08b0ec58e107c59a752af12aa43
   cf_stacks:
-  - cflinuxfs2
   - cflinuxfs3
